@@ -1,0 +1,7 @@
+#sketch-holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e1e1e; /* Adjust background to your preference */
+  }
+  
